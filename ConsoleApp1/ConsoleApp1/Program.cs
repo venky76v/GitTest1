@@ -10,6 +10,8 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
+            // code was changed in github
+            Console.WriteLine("Some code changed in github as a part of Git Fundamentals channel 9 msdn tutorial");
         }
     }
 }
